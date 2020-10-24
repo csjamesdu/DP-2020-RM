@@ -19,7 +19,6 @@ public class testSorter {
             }
         });
 
-//        Arrays.stream(arr).forEach(item->System.out.println(item));
         System.out.println(Arrays.toString(arr));
     }
 }
